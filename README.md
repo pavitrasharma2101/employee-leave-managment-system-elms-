@@ -7,7 +7,7 @@ a basic application made by the help of php and my sql for applying leave in a c
 1. Download the project zip file
 
 2. Extract the file and copy elms folder
-
+  
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
 
 4.Open PHPMyAdmin (http://localhost/phpmyadmin)
